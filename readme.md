@@ -88,7 +88,7 @@ pip install torch torchvision torchaudio --index-url https://download.pytorch.or
 
 ### 3. Run the Notebook in VS Code or Jupyter
 
-1. Open `gpu_training_stress_test.ipynb` in **VS Code** or **Jupyter Lab / Notebook**.
+1. Open `CPU And GPU Test.ipynb` in **VS Code** or **Jupyter Lab / Notebook**.
 
 2. Select your GPU-enabled Python kernel in the top-right kernel picker.
 
